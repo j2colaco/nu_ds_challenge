@@ -1,3 +1,3 @@
 # Data Science Challenge
 
-Please refer to ".ipynb" jupyter notebook!
+Please refer to "kickstarter_codebase.ipynb" jupyter notebook!
